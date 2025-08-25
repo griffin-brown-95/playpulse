@@ -1,0 +1,6 @@
+pandas
+ipykernel
+requests
+python-dotenv
+psycopg2
+supabase
